@@ -1,0 +1,50 @@
+{
+  "nodes": {
+    "my-first-repo": {
+      "name": "my-first-repo",
+      "type": "lib",
+      "data": {
+        "root": ".",
+        "name": "my-first-repo",
+        "tags": [
+          "npm:public"
+        ],
+        "metadata": {
+          "targetGroups": {
+            "NPM Scripts": [
+              "test"
+            ]
+          },
+          "description": "",
+          "js": {
+            "packageName": "my-first-repo",
+            "packageMain": "index.js",
+            "isInPackageManagerWorkspaces": true
+          }
+        },
+        "targets": {
+          "test": {
+            "executor": "nx:run-script",
+            "options": {
+              "script": "test"
+            },
+            "metadata": {
+              "scriptContent": "echo \"Error: no test specified\" && exit 1",
+              "runCommand": "npm run test"
+            },
+            "configurations": {},
+            "parallelism": true
+          }
+        },
+        "implicitDependencies": []
+      }
+    }
+  },
+  "externalNodes": {},
+  "dependencies": {
+    "my-first-repo": []
+  },
+  "version": "6.0",
+  "errors": [],
+  "computedAt": 1751029535087
+}

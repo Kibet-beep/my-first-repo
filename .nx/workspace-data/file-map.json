@@ -1,0 +1,45 @@
+{
+  "version": "6.0",
+  "nxVersion": "21.2.1",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {
+      "my-first-repo": [
+        {
+          "file": "README",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "desktop/README.md",
+          "hash": "1205319319504461815"
+        },
+        {
+          "file": "md",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "mobile/README.md",
+          "hash": "7683882604555303133"
+        },
+        {
+          "file": "nx.json",
+          "hash": "18336426213955174907"
+        },
+        {
+          "file": "package.json",
+          "hash": "1986506167038745105"
+        },
+        {
+          "file": "shared/README.md",
+          "hash": "17302149556146059280"
+        },
+        {
+          "file": "web/README.md",
+          "hash": "1802957196726564569"
+        }
+      ]
+    },
+    "nonProjectFiles": []
+  }
+}

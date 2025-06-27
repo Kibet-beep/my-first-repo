@@ -16,5 +16,9 @@
     "url": "https://github.com/Kibet-beep/my-first-repo/issues"
   },
   "homepage": "https://github.com/Kibet-beep/my-first-repo#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nx": "21.2.1"
+  },
+  "nx": {}
 }
