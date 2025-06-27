@@ -4,10 +4,63 @@
   "pathMappings": {},
   "nxJsonPlugins": [],
   "fileMap": {
+    "nonProjectFiles": [],
     "projectFileMap": {
       "my-first-repo": [
         {
-          "file": "README",
+          "file": ".git/index",
+          "hash": "3963889201076694049"
+        },
+        {
+          "file": ".nx/cache/run.json",
+          "hash": "11655458449875887819"
+        },
+        {
+          "file": ".nx/workspace-data/e043e170-60bf-4002-8560-e516bd352158.db",
+          "hash": "6240709564311096908"
+        },
+        {
+          "file": ".nx/workspace-data/e043e170-60bf-4002-8560-e516bd352158.db-shm",
+          "hash": "11032346714432165798"
+        },
+        {
+          "file": ".nx/workspace-data/e043e170-60bf-4002-8560-e516bd352158.db-wal",
+          "hash": "9064995646408365131"
+        },
+        {
+          "file": ".nx/workspace-data/file-map.json",
+          "hash": "11351056946284693425"
+        },
+        {
+          "file": ".nx/workspace-data/lockfile.hash",
+          "hash": "17668817904758967100"
+        },
+        {
+          "file": ".nx/workspace-data/parsed-lock-file.json",
+          "hash": "12036089449807723598"
+        },
+        {
+          "file": ".nx/workspace-data/project-graph.json",
+          "hash": "17043878109885861077"
+        },
+        {
+          "file": ".nx/workspace-data/source-maps.json",
+          "hash": "1317599170802548227"
+        },
+        {
+          "file": ".nx/workspace-data/source-maps.json~2308acf9",
+          "hash": "1317599170802548227"
+        },
+        {
+          "file": ".nx/workspace-data/source-maps.json~5ed1852f",
+          "hash": "1317599170802548227"
+        },
+        {
+          "file": ".nx/workspace-data/source-maps.json~abb4a280",
+          "hash": "1317599170802548227"
+        },
+        {
+          "file": "README.md",
           "hash": "3244421341483603138"
         },
         {
@@ -27,6 +80,10 @@
           "hash": "18336426213955174907"
         },
         {
+          "file": "package-lock.json",
+          "hash": "6326594403798317536"
+        },
+        {
           "file": "package.json",
           "hash": "1986506167038745105"
         },
@@ -37,9 +94,12 @@
         {
           "file": "web/README.md",
           "hash": "1802957196726564569"
+        },
+        {
+          "file": "web/index.html",
+          "hash": "3244421341483603138"
         }
       ]
-    },
-    "nonProjectFiles": []
+    }
   }
 }
